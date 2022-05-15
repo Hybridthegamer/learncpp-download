@@ -1,0 +1,250 @@
+Ignored `text-rendering:auto` at 1:159, unknown property.
+Ignored `text-rendering:auto` at 1:447, unknown property.
+Ignored `clip-path:inset(50%)` at 1:1320, unknown property.
+Ignored `box-shadow:0 0 1px #555` at 1:1703, unknown property.
+Ignored `max-width:auto` at 1:1773, invalid value.
+Ignored `box-shadow:0 0` at 1:1991, unknown property.
+Ignored `clip-path:inset(50%)` at 1:2077, unknown property.
+Ignored `min-width:6vw` at 1:2641, invalid value.
+Ignored `box-shadow:inset 1px 1px 8px rgba(0,0,0,.1)` at 1:3933, unknown property.
+Ignored `resize:none` at 1:4007, unknown property.
+Invalid or unsupported selector '#wpdcom .wpd-form .wpdiscuz-textarea-wrap textarea::-moz-placeholder', (<IdentToken -moz-placeholder>, 'Expected a supported pseudo-element, got -moz-placeholder')
+Invalid or unsupported selector '#wpdcom .wpd-form .wpdiscuz-textarea-wrap textarea::-webkit-input-placeholder', (<IdentToken -webkit-input-placeholder>, 'Expected a supported pseudo-element, got -webkit-input-placeholder')
+Invalid or unsupported selector '#wpdcom .wpd-form .wpdiscuz-textarea-wrap textarea:-ms-input-placeholder', ('Unknown pseudo-class', '-ms-input-placeholder')
+Ignored `flex-basis:calc(100% - 70px)` at 1:4807, invalid value.
+Ignored `box-shadow:1px 1px 3px -1px #bbb` at 1:5331, unknown property.
+Ignored `fill:#888` at 1:8392, unknown property.
+Ignored `display:-ms-flexbox` at 1:8634, invalid value.
+Ignored `resize:none` at 1:9966, unknown property.
+Expected a media type, got 'screen/**/and/**/(max-width:600px)'
+Invalid media type ' screen and (max-width:600px)' the whole @media rule was ignored at 1:10568.
+Ignored `text-rendering:auto` at 1:11525, unknown property.
+Ignored `filter:alpha(opacity=90)` at 1:12618, unknown property.
+Ignored `quotes:none` at 1:13933, invalid value.
+Invalid or unsupported selector 'button::-moz-focus-inner,input::-moz-focus-inner', (<IdentToken -moz-focus-inner>, 'Expected a supported pseudo-element, got -moz-focus-inner')
+Invalid or unsupported selector 'input::-moz-focus-inner', (<IdentToken -moz-focus-inner>, 'Expected a supported pseudo-element, got -moz-focus-inner')
+Ignored `display:-webkit-flex` at 1:15253, invalid value.
+Ignored `display:-ms-flexbox` at 1:15274, invalid value.
+Expected a media type, got '(min-width:1152px)'
+Invalid media type '(min-width:1152px)' the whole @media rule was ignored at 1:15959.
+Ignored `box-shadow:0 0 .5em .1em rgba(0,0,0,5%)` at 1:18093, unknown property.
+Ignored `overflow-y:auto` at 1:18477, unknown property.
+Ignored `overflow-x:hidden` at 1:18493, unknown property.
+Expected a media type, got '(max-width:480px)'
+Invalid media type '(max-width:480px)' the whole @media rule was ignored at 1:18657.
+Ignored `transform:rotateX(0)` at 1:19352, invalid value.
+Ignored `transform:rotateX(-180deg)` at 1:19466, invalid value.
+Ignored `max-width:calc(100% - 2em)` at 1:22979, invalid value.
+Ignored `box-shadow:0 2px 2px rgba(0,0,0,.1)` at 1:23056, unknown property.
+Expected a media type, got 'screen/**/and/**/(-ms-high-contrast:active)'
+Invalid media type ' screen and (-ms-high-contrast:active),(-ms-high-contrast:none)' the whole @media rule was ignored at 1:24289.
+Expected a media type, got '(max-width:1152px)'
+Invalid media type '(max-width:1152px)' the whole @media rule was ignored at 1:24440.
+Expected a media type, got '(max-width:1024px)'
+Invalid media type '(max-width:1024px)' the whole @media rule was ignored at 1:25125.
+Expected a media type, got '(max-width:800px)'
+Invalid media type '(max-width:800px)' the whole @media rule was ignored at 1:25201.
+Expected a media type, got '(max-width:640px)'
+Invalid media type '(max-width:640px)' the whole @media rule was ignored at 1:25400.
+Expected a media type, got '(max-width:480px)'
+Invalid media type '(max-width:480px)' the whole @media rule was ignored at 1:25953.
+Error: Expected ':' after declaration name, got number. at 1:90.
+Ignored `box-shadow:inherit` at 1:1791, unknown property.
+Ignored `font-display:optional` at 2:12, descriptor not supported.
+Ignored `text-rendering:auto` at 2:42900, unknown property.
+Ignored `font-display:optional` at 4:131, descriptor not supported.
+Ignored `text-rendering:auto` at 4:641, unknown property.
+Ignored `filter:none` at 4:2771, unknown property.
+Ignored `box-shadow:none` at 1:284, unknown property.
+Ignored `padding:calc(.667em + 2px) calc(1.333em + 2px)` at 1:354, invalid value.
+Ignored `width:calc(25% - .5em)` at 1:1032, invalid value.
+Ignored `width:calc(50% - .5em)` at 1:1116, invalid value.
+Ignored `width:calc(75% - .5em)` at 1:1200, invalid value.
+Ignored `width:calc(100% - .5em)` at 1:1285, invalid value.
+Expected a media type, got '(min-width:782px)'
+Invalid media type ' (min-width:782px)' the whole @media rule was ignored at 1:5051.
+Ignored `word-break:break-word` at 1:5413, invalid value.
+Expected a media type, got '(max-width:599px)'
+Invalid media type ' (max-width:599px)' the whole @media rule was ignored at 1:5460.
+Expected a media type, got '(min-width:600px)and/**/(max-width:781px)'
+Invalid media type ' (min-width:600px) and (max-width:781px)' the whole @media rule was ignored at 1:5529.
+Expected a media type, got '(min-width:782px)'
+Invalid media type ' (min-width:782px)' the whole @media rule was ignored at 1:5707.
+Expected a media type, got '(prefers-reduced-motion:reduce)'
+Invalid media type ' (prefers-reduced-motion:reduce)' the whole @media rule was ignored at 1:6665.
+Ignored `box-shadow:none` at 1:14639, unknown property.
+Ignored `box-shadow:none` at 1:18131, unknown property.
+Ignored `width:calc(50% - 1em)` at 1:18649, invalid value.
+Expected a media type, got '(min-width:600px)'
+Invalid media type ' (min-width:600px)' the whole @media rule was ignored at 1:22059.
+Expected a media type, got '(min-width:600px)'
+Invalid media type ' (min-width:600px)' the whole @media rule was ignored at 1:29216.
+Ignored `display:grid` at 3:22, invalid value.
+Ignored `grid-template-columns:50% 1fr` at 3:35, unknown property.
+Ignored `grid-template-rows:auto` at 3:65, unknown property.
+Ignored `grid-template-columns:1fr 50%` at 3:133, unknown property.
+Ignored `align-self:start` at 3:315, invalid value.
+Ignored `align-self:end` at 3:766, invalid value.
+Ignored `grid-column:1` at 4:24, unknown property.
+Ignored `grid-row:1` at 4:38, unknown property.
+Ignored `grid-column:2` at 6:24, unknown property.
+Ignored `grid-row:1` at 6:38, unknown property.
+Ignored `word-break:break-word` at 7:35, invalid value.
+Ignored `grid-column:2` at 8:24, unknown property.
+Ignored `grid-row:1
+  /*!rtl:end:ignore*/` at 8:38, unknown property.
+Ignored `grid-column:1` at 10:24, unknown property.
+Ignored `grid-row:1
+  /*!rtl:end:ignore*/` at 10:38, unknown property.
+Ignored `max-width:unset` at 11:89, invalid value.
+Expected a media type, got '(max-width:600px)'
+Invalid media type ' (max-width:600px)' the whole @media rule was ignored at 11:515.
+Ignored `stroke:currentColor` at 11:2966, unknown property.
+Ignored `align-items:normal` at 11:3586, invalid value.
+Expected a media type, got '(min-width:782px)'
+Invalid media type ' (min-width:782px)' the whole @media rule was ignored at 11:5675.
+Expected a media type, got '(min-width:782px)'
+Invalid media type ' (min-width:782px)' the whole @media rule was ignored at 11:13594.
+Expected a media type, got '(min-width:782px)'
+Invalid media type ' (min-width:782px)' the whole @media rule was ignored at 11:14776.
+Expected a media type, got '(min-width:600px)'
+Invalid media type ' (min-width:600px)' the whole @media rule was ignored at 11:15699.
+Expected a media type, got '(min-width:600px)'
+Invalid media type ' (min-width:600px)' the whole @media rule was ignored at 11:17503.
+Ignored `fill:currentColor` at 11:18570, unknown property.
+Ignored `pointer-events:none` at 11:18588, unknown property.
+Expected a media type, got '(min-width:600px)'
+Invalid media type ' (min-width:600px)' the whole @media rule was ignored at 11:18706.
+Expected a media type, got '(min-width:480px)'
+Invalid media type ' (min-width:480px)' the whole @media rule was ignored at 11:21842.
+Ignored `display:contents` at 11:21993, invalid value.
+Ignored `box-shadow:none` at 11:24048, unknown property.
+Expected a media type, got '(min-width:600px)'
+Invalid media type ' (min-width:600px)' the whole @media rule was ignored at 11:25585.
+Expected a media type, got '(min-width:600px)'
+Invalid media type ' (min-width:600px)' the whole @media rule was ignored at 11:28682.
+Ignored `width:none` at 11:30510, invalid value.
+Ignored `box-shadow:none` at 11:31176, unknown property.
+Expected a media type, got '(prefers-reduced-motion:reduce)'
+Invalid media type ' (prefers-reduced-motion:reduce)' the whole @media rule was ignored at 11:31885.
+Ignored `fill:currentColor` at 11:32535, unknown property.
+Ignored `stroke:#000` at 11:35604, unknown property.
+Ignored `stroke:#000` at 11:39185, unknown property.
+Ignored `overflow-x:auto` at 11:40505, unknown property.
+Ignored `word-break:break-word` at 11:40717, invalid value.
+Ignored `word-break:break-word` at 11:41025, invalid value.
+Ignored `clip-path:inset(50%)` at 11:48027, unknown property.
+Ignored `clip-path:none` at 11:48243, unknown property.
+Ignored `font-display:optional` at 1:12, descriptor not supported.
+Ignored `pointer-events:none` at 1:829, unknown property.
+Ignored `user-select:none` at 1:1008, unknown property.
+Ignored `box-shadow:0 2px 0 0 rgba(0,0,0,.2)` at 1:2003, unknown property.
+Ignored `word-break:break-word` at 1:2321, invalid value.
+Ignored `text-shadow:none` at 1:2405, unknown property.
+Ignored `display:inline-grid` at 1:2459, invalid value.
+Ignored `font-display:swap` at 1:68, descriptor not supported.
+Ignored `font-display:swap` at 1:393, descriptor not supported.
+Ignored `box-shadow:0 0 1px #555` at 1:542, unknown property.
+Ignored `max-width:auto` at 1:612, invalid value.
+Ignored `box-shadow:none` at 1:877, unknown property.
+Ignored `fill:#009149` at 1:1437, unknown property.
+Ignored `fill:#fc5844` at 1:1524, unknown property.
+Ignored `clip-path:inset(50%)` at 1:1917, unknown property.
+Ignored `bottom:calc(100% + 0.3em)` at 1:2612, invalid value.
+Ignored `bottom:calc(-100% - 1.8em)` at 1:2841, invalid value.
+Ignored `left:calc(100% + 1.5em)` at 1:3044, invalid value.
+Ignored `right:calc(100% + 1.5em)` at 1:3266, invalid value.
+Ignored `min-width:6vw` at 1:3913, invalid value.
+Ignored `pointer-events:none` at 1:3960, unknown property.
+Ignored `min-width:5vw` at 1:4149, invalid value.
+Ignored `min-width:10vw` at 1:4196, invalid value.
+Ignored `min-width:14vw` at 1:4242, invalid value.
+Invalid or unsupported selector '_:-ms-lang(x),.wpd-social-login [wpd-tooltip]::after', ('Unknown pseudo-class', '-ms-lang')
+Invalid or unsupported selector '_:-ms-lang(x),.wpd-social-login [wpd-tooltip]::before', ('Unknown pseudo-class', '-ms-lang')
+Ignored `font-display:optional` at 1:6424, descriptor not supported.
+Ignored `white-space:break-spaces` at 1:7639, invalid value.
+Ignored `white-space:break-spaces` at 1:10490, invalid value.
+Ignored `fill:#ccc` at 1:12108, unknown property.
+Ignored `fill:#ffc600` at 1:12181, unknown property.
+Ignored `box-shadow:none` at 1:17725, unknown property.
+Ignored `box-shadow:inset 1px 1px 8px rgba(0,0,0,.1)` at 1:18714, unknown property.
+Ignored `resize:none` at 1:18907, unknown property.
+Ignored `box-shadow:inset 1px 2px 8px rgba(0,0,0,.02)` at 1:18976, unknown property.
+Invalid or unsupported selector '#wpdcom .wpd-form .wpdiscuz-textarea-wrap textarea::-moz-placeholder', (<IdentToken -moz-placeholder>, 'Expected a supported pseudo-element, got -moz-placeholder')
+Invalid or unsupported selector '#wpdcom .wpd-form .wpdiscuz-textarea-wrap textarea::-webkit-input-placeholder', (<IdentToken -webkit-input-placeholder>, 'Expected a supported pseudo-element, got -webkit-input-placeholder')
+Invalid or unsupported selector '#wpdcom .wpd-form .wpdiscuz-textarea-wrap textarea:-ms-input-placeholder', ('Unknown pseudo-class', '-ms-input-placeholder')
+Ignored `flex-basis:calc( 100% - 70px )` at 1:20461, invalid value.
+Ignored `box-shadow:none` at 1:21534, unknown property.
+Ignored `box-shadow:1px 1px 3px -1px #bbb` at 1:22073, unknown property.
+Ignored `box-shadow:none` at 1:22229, unknown property.
+Ignored `box-shadow:1px 1px 2px -1px #ccc` at 1:22329, unknown property.
+Ignored `word-break:break-word` at 1:23631, invalid value.
+Ignored `stroke:#999` at 1:24230, unknown property.
+Ignored `fill:#999` at 1:24271, unknown property.
+Ignored `stroke:#0274be` at 1:24339, unknown property.
+Ignored `fill:#0274be` at 1:24410, unknown property.
+Ignored `stroke:#0274be` at 1:24485, unknown property.
+Ignored `fill:#0274be` at 1:24560, unknown property.
+Ignored `box-shadow:none` at 1:29209, unknown property.
+Ignored `text-overflow:""` at 1:29420, invalid value.
+Ignored `width:calc(100% - 112px)` at 1:31179, invalid value.
+Ignored `box-shadow:none` at 1:33059, unknown property.
+Ignored `width:calc(100% - 40px)` at 1:34663, invalid value.
+Expected a media type, got 'screen/**/and/**/(min-width:655px)'
+Invalid media type ' screen and (min-width:655px)' the whole @media rule was ignored at 1:40145.
+Expected a media type, got 'screen/**/and/**/(max-width:730px)'
+Invalid media type ' screen and (max-width:730px)' the whole @media rule was ignored at 1:40977.
+Expected a media type, got 'screen/**/and/**/(max-width:655px)'
+Invalid media type ' screen and (max-width:655px)' the whole @media rule was ignored at 1:41139.
+Invalid or unsupported selector '_:-ms-lang(x),#wpdcom .wpd-comment .wpd-comment-left', ('Unknown pseudo-class', '-ms-lang')
+Ignored `width:calc(100% - 80px)` at 1:43706, invalid value.
+Ignored `word-break:break-word` at 1:46138, invalid value.
+Ignored `fill:#888` at 1:47742, unknown property.
+Ignored `fill:#999` at 1:48183, unknown property.
+Invalid or unsupported selector '_:-ms-lang(x),#wpdcom .wpd-comment.wpd-reply .wpd-comment-left', ('Unknown pseudo-class', '-ms-lang')
+Ignored `display:-ms-flexbox` at 1:51129, invalid value.
+Invalid or unsupported selector '#wpdcom.wpd-layout-2 .wpd-form .wpdiscuz-textarea-wrap textarea::placeholder', unknown pseudo-element: placeholder
+Invalid or unsupported selector '_:-ms-lang(x),#wpdcom.wpd-layout-2 .wpd-comment .wpd-avatar i', ('Unknown pseudo-class', '-ms-lang')
+Ignored `width:calc(100% - 35px)` at 1:57298, invalid value.
+Ignored `display:-ms-flexbox` at 1:63328, invalid value.
+Ignored `box-shadow:0 0 15px #aaa` at 1:64922, unknown property.
+Ignored `fill:#fff` at 1:65326, unknown property.
+Ignored `fill:transparent` at 1:65385, unknown property.
+Ignored `fill:#fff` at 1:65449, unknown property.
+Ignored `fill:transparent` at 1:65507, unknown property.
+Ignored `fill:#fff` at 1:66974, unknown property.
+Ignored `fill:transparent` at 1:67065, unknown property.
+Ignored `box-shadow:0 0 10px #bbb` at 1:67548, unknown property.
+Ignored `box-shadow:none` at 1:70368, unknown property.
+Ignored `box-shadow:none` at 1:70488, unknown property.
+Ignored `fill:transparent` at 1:70784, unknown property.
+Ignored `text-shadow:none` at 1:71243, unknown property.
+Ignored `resize:vertical` at 1:72127, unknown property.
+Ignored `box-shadow:inset 2px 2px 2px 0 #ddd` at 1:72312, unknown property.
+Ignored `box-shadow:inset 2px 2px 2px 0 #ddd` at 1:72768, unknown property.
+Ignored `fill:#fff` at 1:73371, unknown property.
+Ignored `fill:transparent` at 1:73441, unknown property.
+Ignored `box-shadow:inset -7px 0 15px 3px #eee` at 1:73718, unknown property.
+Ignored `box-shadow:none` at 1:75036, unknown property.
+Ignored `box-shadow:none` at 1:75342, unknown property.
+Ignored `box-shadow:#666 0 0 8px` at 1:77083, unknown property.
+Ignored `box-shadow:#666 0 0 8px` at 1:77202, unknown property.
+Ignored `box-shadow:#666 0 0 8px` at 1:77321, unknown property.
+Ignored `resize:none` at 1:77817, unknown property.
+Ignored `box-shadow:none` at 1:93259, unknown property.
+Expected a media type, got 'screen/**/and/**/(max-width:1024px)'
+Invalid media type ' screen and (max-width:1024px)' the whole @media rule was ignored at 1:95359.
+Expected a media type, got 'screen/**/and/**/(max-width:600px)'
+Invalid media type ' screen and (max-width:600px)' the whole @media rule was ignored at 1:96290.
+Ignored `fill:#00b38f` at 1:6585, unknown property.
+Ignored `fill:#ddd` at 1:8056, unknown property.
+Ignored `fill:gold` at 1:8134, unknown property.
+Ignored `fill:#ddd` at 1:8209, unknown property.
+Ignored `fill:#ffed85` at 1:8290, unknown property.
+Ignored `fill:#ddd` at 1:8392, unknown property.
+Ignored `fill:#ddd` at 1:8490, unknown property.
+Ignored `fill:gold` at 1:8590, unknown property.
+Ignored `fill:#1db99a` at 1:10499, unknown property.
+Ignored `text-rendering:auto` at 1:158, unknown property.
+Ignored `filter:none` at 1:1703, unknown property.
+Ignored `font-display:block` at 3:322, descriptor not supported.
