@@ -1,6 +1,6 @@
 import argparse
 
-import ray
+#import ray
 
 from helper import render
 
@@ -20,7 +20,7 @@ def argument_parser():
     return parser.parse_args()
 
 
-ray.init(log_to_driver=False)
+#ray.init(log_to_driver=False)
 args = argument_parser()
 
 if args.weasy:
